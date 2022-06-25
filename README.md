@@ -6,5 +6,5 @@ This is a simple readme file
 
 just a simple update on the branch
 
-testing again the concept of branch and fordward merge automatic
+I hope this isn't of a problem
 
