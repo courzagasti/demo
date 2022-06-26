@@ -8,6 +8,3 @@ This  is bound to cause trouble again
 
 This  is bound to cause trouble! Again!!!
 
-
->>>>>>> very-bad
-
