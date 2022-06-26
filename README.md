@@ -6,10 +6,7 @@ This is a simple readme file
 
 This  is bound to cause trouble again
 
-<<<<<<< HEAD
-I hope this isn't of a problem
-=======
-This  is bound to cause trouble!
+This  is bound to cause trouble! Again!!!
 
 
 >>>>>>> very-bad
